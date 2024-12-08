@@ -1,0 +1,9 @@
+A,B,C,D,E,F,Target
+25,Private,7,Machine-op-inspct,Male,40,<=50K
+38,Private,9,Farming-fishing,Male,50,<=50K
+28,Local-gov,12,Protective-serv,Male,40,>50K
+44,Private,10,Machine-op-inspct,Male,40,>50K
+18,?,10,?,Female,30,<=50K
+28,Private,12,Protective-serv,Male,40,>50K
+28,Local-gov,10,Farming-fishing,Female,50,>50K
+29,Private,12,?,Female,40,>50K
